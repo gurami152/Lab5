@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Lab5</string>
+
+    <string-array name="color_name">
+        <item>Красный</item>
+        <item>Оранжевий</item>
+        <item>Желтый</item>
+        <item>Зеленый</item>
+        <item>Черный</item>
+        <item>Синий</item>
+        <item>Фиолетовый</item>
+    </string-array>
+
+    <string-array name="duration">
+        <item>10 sec</item>
+        <item>20 sec</item>
+        <item>30 sec</item>
+        <item>40 sec</item>
+        <item>50 sec</item>
+        <item>60 sec</item>
+    </string-array>
+
+</resources>
